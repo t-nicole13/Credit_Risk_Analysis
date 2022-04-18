@@ -1,2 +1,5 @@
 # ignore CSV file
 LoanStats_2019Q1.csv
+
+# ignore ipynb checkpoints
+.ipynb_checkpoints
