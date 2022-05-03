@@ -22,10 +22,9 @@ This is an ensemble method that randomly undersamples each bootstrap sample to b
 This is another ensemble classifier.  An ensemble of AdaBooset learners are trained on different balanced bootstrap samples. 
 
 ### Tasks
-- Deliverable 1: Use Resampling Models to Predict Credit Risk
-- Deliverable 2: Use the SMOTEENN Algorithm to Predict Credit Risk
-- Deliverable 3: Use Ensemble Classifiers to Predict Credit Risk
-- Deliverable 4: A Written Report on the Credit Risk Analysis (README.md)
+- Use Resampling Models to Predict Credit Risk
+- Use the SMOTEENN Algorithm to Predict Credit Risk
+- Use Ensemble Classifiers to Predict Credit Risk
 
 
 ## Resources
